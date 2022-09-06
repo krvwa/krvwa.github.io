@@ -3,7 +3,7 @@
   <title>
     grabber lol
   </title>
-  <h1>
+  <body>
     <?php
 
 function logIP()
@@ -33,5 +33,5 @@ logIp();
 
 
 ?>
-  </h1>
+  </body>
 </html>
